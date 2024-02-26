@@ -1,0 +1,15 @@
+/* ToDoItem.module.css */
+.todoItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.todoItem input[type='checkbox'] {
+  margin-right: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #aaa;
+}
