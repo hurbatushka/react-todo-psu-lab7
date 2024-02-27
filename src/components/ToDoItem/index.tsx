@@ -1,4 +1,3 @@
-// components/ToDoItem.tsx
 import React from 'react';
 import styles from './ToDoItem.module.css';
 import ToDoItemProps from '../../interfaces/ToDoItemProps';
